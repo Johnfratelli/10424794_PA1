@@ -1,0 +1,79 @@
+"IDHOTEL","IDTIPODEBCRED","CENTROCUSTOCREDIT","DESCRICAO","RECPAG","IDGRUPODC","IDPRINCIPAL","PRINCIPALSECUNDAR","GRUPOFIXO","GRUPO","FLGPDVSERVICO","PDVALIMENTO","NOMEGRUPO","IDHOTEL_TIPODEBCRED"
+9,1,null,"Consumo Interno","R",4,1,"P","RE","ALIMENTOS E BEBIDAS","N","N","AeB",91
+9,2,null,"Gorjeta Inativo","R",8,2,"P","DV","DIVERSOS","N","N","Diversos",92
+9,3,null,"Diaria","R",2,3,"P","DI","HOSPEDAGEM","N","N","Diaria",93
+9,4,null,"Chegada Antecipada","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",94
+9,5,null,"No Show","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",95
+9,6,null,"Diaria Manual","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",96
+9,7,null,"Up Selling","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",97
+9,8,null,"Desconto Diaria","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",98
+9,9,null,"Late Check Out","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",99
+9,10,null,"Day Use","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",910
+9,11,null,"Referente Amanha","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",911
+9,12,null,"Devolucao Deposito","R",7,29,"S","DP","CREDITOS","N","N","Dep√≥sitos",912
+9,13,null,"Cafe Manha (-)","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",913
+9,14,null,"Troco  Inativo","R",7,19,"S","DN","CREDITOS","N","N","Dinheiro",914
+9,15,null,"Cafe Manha (+)","R",4,49,"S","DI","ALIMENTOS E BEBIDAS","N","N","Diaria",915
+9,17,null,"Telefone","R",3,17,"P","TL","TELECOMUNICA«’ES","N","N","Telefonia",917
+9,18,null,"Internet","R",3,18,"P","TL","TELECOMUNICA«’ES","N","N","Telefonia",918
+9,19,null,"Dinheiro","R",7,19,"P","DN","CREDITOS","N","N","Dinheiro",919
+9,20,null,"Desconto AB","R",4,49,"S","RE","ALIMENTOS E BEBIDAS","N","N","AeB",920
+9,21,null,"Banquete","R",10,21,"P","BQ","EVENTOS","N","S","BQ",921
+9,22,null,"Aluguel de Salao","R",10,22,"P","EV","EVENTOS","N","N","Eventos",922
+9,23,null,"Aluguel Equipamentos","R",10,23,"P","EV","EVENTOS","N","N","Eventos",923
+9,24,null,"Taxa Turismo","R",6,24,"P","DV","IMPOSTOS E TAXAS","N","N","Diversos",924
+9,29,null,"Deposito Antecipado","R",7,29,"P","DP","CREDITOS","N","N","Dep√≥sitos",929
+9,30,null,"Pessoal de Apoio","R",10,30,"P","EV","EVENTOS","N","N","Eventos",930
+9,37,null,"A Faturar","R",7,37,"P","AF","CREDITOS","N","N","A Faturar",937
+9,38,null,"Cheque","R",7,38,"P","CH","CREDITOS","N","N","CH",938
+9,39,null,"Cartao Credito","R",7,39,"P","CC","CREDITOS","N","N","Cart√µes",939
+9,40,null,"Amex Nacional","R",7,39,"S","CC","CREDITOS","N","N","Cart√µes",940
+9,41,null,"Visa","R",7,39,"S","CC","CREDITOS","N","N","Cart√µes",941
+9,42,null,"Visa Electron","R",7,39,"S","CC","CREDITOS","N","N","Cart√µes",942
+9,43,null,"Master Card","R",7,39,"S","CC","CREDITOS","N","N","Cart√µes",943
+9,44,null,"Rede Shop","R",7,39,"S","CC","CREDITOS","N","N","Cart√µes",944
+9,45,null,"Hipercard Inativo","R",7,39,"S","CC","CREDITOS","N","N","Cart√µes",945
+9,46,null,"Room Service","R",4,46,"P","RS","ALIMENTOS E BEBIDAS","N","S","AeB",946
+9,49,null,"Restaurante Biribar","R",4,49,"P","RE","ALIMENTOS E BEBIDAS","N","S","AeB",949
+9,51,null,"Frigobar","R",4,51,"P","BU","ALIMENTOS E BEBIDAS","N","S","AeB",951
+9,52,null,"TARDEZINHA","R",4,52,"P","BA","ALIMENTOS E BEBIDAS","N","S","AeB",952
+9,53,null,"Lavanderia","R",5,53,"P","LV","LAVANDERIA","N","N","Lavanderia",953
+9,56,null,"ISS","R",6,56,"P",null,"IMPOSTOS E TAXAS","N","N",null,956
+9,57,null,"Taxa Servico (+)","R",6,57,"P",null,"IMPOSTOS E TAXAS","N","N",null,957
+9,58,null,"Transf Credito","R",11,58,"P","OR","TRANSFERENCIAS","N","N","Outros Recebimentos",958
+9,59,null,"Transf Diaria","R",11,59,"P","DI","TRANSFERENCIAS","N","N","Diaria",959
+9,60,null,"Transf ServiÁos","R",11,60,"P","DV","TRANSFERENCIAS","N","N","Diversos",960
+9,61,null,"Transf PDV","R",11,61,"P","RE","TRANSFERENCIAS","N","N","AeB",961
+9,62,null,"Coffee Shop","R",4,62,"P","BA","ALIMENTOS E BEBIDAS","N","S","AeB",962
+9,63,null,"Bar da Piscina","R",4,63,"P","BA","ALIMENTOS E BEBIDAS","N","S","AeB",963
+9,82,null,"Diferenca Diaria","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",982
+9,102,null,"Passadoria","R",5,102,"P","LV","LAVANDERIA","N","N","Lavanderia",9102
+9,103,null,"Lavanderia Express","R",5,53,"S","LV","LAVANDERIA","N","N","Lavanderia",9103
+9,104,null,"Diversos TS","R",8,104,"P","DV","DIVERSOS","N","N","Diversos",9104
+9,105,null,"Diversos","R",8,105,"P","DV","DIVERSOS","N","N","Diversos",9105
+9,122,null,"Desc. TX. Serv.","R",6,57,"S","TX","IMPOSTOS E TAXAS","N","N","Taxas",9122
+9,123,null,"Desc. Serv.","R",8,123,"P","DV","DIVERSOS","N","N","Diversos",9123
+9,142,null,"Internet Cartao","R",3,18,"S","TL","TELECOMUNICA«’ES","N","N","Telefonia",9142
+9,162,null,"Diaria NET/NET(SEM 10% C/ISS)","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",9162
+9,163,null,"Diaria NET(COBRA TAXAS E N√O COMISSIONA)","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",9163
+9,182,null,"Business Center","R",8,182,"P","DV","DIVERSOS","N","N","Diversos",9182
+9,183,null,"Estacionamento","R",8,183,"P","ES","DIVERSOS","N","N","ES",9183
+9,184,null,"Salao Beleza","R",8,184,"P","DV","DIVERSOS","N","N","Diversos",9184
+9,202,null,"Desc. ISS","R",6,202,"P","IS","IMPOSTOS E TAXAS","N","N","ISS",9202
+9,224,null,"Hospede Adicional","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",9224
+9,225,null,"Diaria RO","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",9225
+9,262,null,"Diaria s/ iss","R",2,3,"S","DI","HOSPEDAGEM","N","N","Diaria",9262
+9,382,null,"Diaria Especial","R",2,382,"P","DI","HOSPEDAGEM","N","N","Diaria",9382
+9,462,null,"Taxa de ServiÁo (-)","R",2,462,"P",null,"HOSPEDAGEM","N","N",null,9462
+9,542,null,"Transf de Saldo","R",2,542,"P",null,"HOSPEDAGEM","N","N",null,9542
+9,582,null,"Trasnferecia de credito","R",7,582,"P",null,"CREDITOS","N","N",null,9582
+9,602,null,"Taxa ServiÁo A&B","R",6,57,"S","TX","IMPOSTOS E TAXAS","N","N","Taxas",9602
+9,842,null,"CafÈ da Manh„","R",4,842,"P","RE","ALIMENTOS E BEBIDAS","N","N","AeB",9842
+9,862,null,"THE HUB","R",4,862,"P","RE","ALIMENTOS E BEBIDAS","N","S","AeB",9862
+9,922,null,"Transf Aero (-)","R",2,3,"S",null,"HOSPEDAGEM","N","N",null,9922
+9,923,null,"Transfer Aero (+)","R",2,3,"S",null,"HOSPEDAGEM","N","N",null,9923
+9,924,null,"Breack Buffet (-)","R",2,3,"S",null,"HOSPEDAGEM","N","N",null,9924
+9,925,null,"Breack Buffet (+)","R",4,49,"S",null,"ALIMENTOS E BEBIDAS","N","N",null,9925
+9,962,null,"USO DA CASA","R",7,962,"P",null,"CREDITOS","N","N",null,9962
+9,1003,null,"PAG SEGURO","R",7,1003,"P","CC","CREDITOS","N","N","Cart√µes",91003
+9,1082,null,"IMPRESS√O AVULSA","R",8,1082,"P","DV","DIVERSOS","N","N","Diversos",91082
